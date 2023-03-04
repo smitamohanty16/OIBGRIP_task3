@@ -1,0 +1,14 @@
+body{
+    background-color:mediumseagreen;
+}
+.container{
+    text-align: center;
+    background-color: greenyellow;
+    width: 50%;
+    height: 250px;
+    margin-left: 25%;
+    margin-top: 20%;
+}
+.container form label{
+   font-size: xx-large;
+}
